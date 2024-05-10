@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+    -   text: "<pre><code class=\"language-js\">let newArr = []; for(let obj of arr) { obj.olderAge\
+    \ = obj.age + 5; newArr.push(obj); }</code></pre>"
+    -   text: "<pre><code class=\"language-js\">let newArr = arr.map(obj =&gt; ({...obj,\
+    \ olderAge: obj.age + 5}));</code></pre>"
+    -   text: "<pre><code class=\"language-js\">let newArr = []; arr.forEach(obj =&gt; {\
+    \ obj.olderAge = obj.age + 5; newArr.push(obj); });</code></pre>"
+    -   text: "<pre><code class=\"language-js\">let newArr = [...arr]; newArr.forEach(obj\
+    \ =&gt; obj.olderAge = obj.age + 5);</code></pre>"
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/39968#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,8 @@
+custom_name: "Random: getting and generating"
+content:
+    - Theory
+    - Math.random() use cases
+    - Random number generation
+    - Rounding a number
+    - The smallest random number
+    - Simple randomizer

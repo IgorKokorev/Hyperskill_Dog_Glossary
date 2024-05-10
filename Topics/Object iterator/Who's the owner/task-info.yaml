@@ -1,0 +1,14 @@
+type: code
+custom_name: Who's the owner?
+files:
+    -   name: main.js
+        visible: true
+        highlight_level: NONE
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16904#comment
+status: Solved
+feedback:
+    message: <html>Correct solution</html>
+    time: "Fri, 10 May 2024 08:05:48 UTC"
+record: -1
+submission_language: javascript

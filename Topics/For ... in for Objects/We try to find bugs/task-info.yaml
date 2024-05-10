@@ -1,0 +1,13 @@
+type: code
+custom_name: We try to find bugs!
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22790#comment
+status: Solved
+feedback:
+    message: <html>Correct solution</html>
+    time: "Fri, 10 May 2024 09:39:58 UTC"
+record: -1
+submission_language: javascript

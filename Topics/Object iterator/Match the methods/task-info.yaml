@@ -1,0 +1,20 @@
+type: matching
+captions:
+    - Returns all the keys of an object.
+    - Returns all the values of an object.
+    - Returns all the key-value pairs of an object.
+options:
+    - values()
+    - entries()
+    - keys()
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16902#comment
+status: Solved
+record: -1
+ordering:
+    - 0
+    - 1
+    - 2
